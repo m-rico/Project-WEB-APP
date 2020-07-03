@@ -48,7 +48,7 @@ session_start();
 
     <h1> Laundry Cahya </h1>
 
-    <a href="tabel.php">klik sini</a>
+    
     <br>
     <h1>Yay! Selamat datang : <?php echo $_SESSION['nama']; ?></h1>
 
